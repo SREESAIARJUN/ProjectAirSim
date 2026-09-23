@@ -1,0 +1,8 @@
+{
+  "errorCode" : "errors.com.epicgames.launcher.app_direct_url_not_found",
+  "errorMessage" : "app direct EpicInstaller-Minimum.exe not found or url is empty.",
+  "messageVars" : [ "EpicInstaller-Minimum.exe" ],
+  "numericErrorCode" : 30003,
+  "originatingService" : "launcher-service",
+  "intent" : "prod"
+}

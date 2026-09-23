@@ -1,0 +1,6 @@
+*.msi
+*.zip
+*.exe
+cmake-*/
+__pycache__/
+*.log

@@ -5,6 +5,7 @@
 #include "RHIGPUReadback.h"
 #include "SceneViewExtension.h"
 
+#include "UnrealCompatibility.h"
 #include "LidarPointCloudCS.h"
 
 // Forward declarations
